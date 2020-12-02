@@ -36,7 +36,7 @@ class HomePage extends React.Component {
 		return (
       <Meta>
         <Head>
-          <title>Medical Professional ~ Cosmic JS Next Js App</title>
+          <title>Medical Professionall ~ Cosmic JS Next Js App</title>
           <meta name="description" content={ this.state.home.seo_description.value } />
           <link rel="icon" type="image/png" href={`${this.state.header.metadata.favicon.imgix_url}?w=32`} sizes="32x32" />
           <link rel="icon" type="image/png" href={`${this.state.header.metadata.favicon.imgix_url}?w=16`} sizes="16x16" />
